@@ -3,6 +3,7 @@
 ![João Victor Rodrigues — Desenvolvedor Full Stack](assets/banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-victor-jv/)
+[![Site principal](https://img.shields.io/badge/Site%20principal-VN%20Bueno-6754D8?style=for-the-badge)](https://vnbueno.com.br)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-VN%20Bueno%20Digital-26365B?style=for-the-badge)](https://digital.vnbueno.com.br)
 
 </div>
@@ -50,6 +51,8 @@ Busco oportunidades de estágio ou desenvolvimento júnior em software.
 
 | Projeto | Descrição | Acesso |
 | --- | --- | --- |
+| **VN Bueno — Site principal** | Portal principal da marca VN Bueno. | [Site](https://vnbueno.com.br) |
+| **dranatairismarques.com.br** | Site profissional apresentado no portfólio. | [Site](https://dranatairismarques.com.br) |
 | **Elo Brasil Solidário** | Projeto integrador acadêmico de conexão entre instituições sociais e doadores de bens materiais. | [Repositório](https://github.com/Joaovsr98/elosolidario) · [Aplicação](https://elo.vnbueno.com.br) |
 | **Bueno's House** | Sistema de gestão para restaurantes, com arquitetura modular e tecnologias Spring Boot, Angular e MySQL, conforme a documentação do projeto. | [Aplicação](https://bueno-s-house.vercel.app) |
 | **Doce Gestão Financeira** | Plataforma de gestão financeira pessoal, com fluxo de onboarding e integração com Supabase e banco de dados. | [Aplicação](https://dgfinanceira.vnbueno.com.br) |
