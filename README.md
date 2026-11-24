@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no UNASP (previsão de conclusão em dezembro de 2027) e fundador da VN Bueno Digital. Desenvolvo projetos autorais e acadêmicos, com interesse em engenharia de software, arquitetura de sistemas e soluções digitais.
+Sou estudante de Análise e Desenvolvimento de Sistemas no UNASP (previsão de conclusão em dezembro de 2027) e cofundador da VN Bueno Digital. Desenvolvo projetos autorais e acadêmicos, com interesse em engenharia de software, arquitetura de sistemas e soluções digitais.
 
 Minha trajetória combina aprendizado acadêmico e prática no desenvolvimento de interfaces, APIs, bancos de dados, testes e publicação de aplicações. Utilizo também ferramentas de IA generativa, como Claude e ChatGPT, no fluxo de desenvolvimento assistido, com foco em revisão, aprendizado e qualidade.
 
@@ -74,7 +74,7 @@ Projetos em evolução. Parte do código-fonte é mantida em repositórios priva
 
 ## About me (EN)
 
-Full Stack developer and Systems Analysis and Development student at UNASP, based in São Paulo, Brazil. Founder of VN Bueno Digital, working on personal and academic projects involving web applications, APIs, databases and AI-assisted software development. Open to internship and junior software development opportunities.
+Full Stack developer and Systems Analysis and Development student at UNASP, based in São Paulo, Brazil. Co-Founder of VN Bueno Digital, working on personal and academic projects involving web applications, APIs, databases and AI-assisted software development. Open to internship and junior software development opportunities.
 
 ---
 
